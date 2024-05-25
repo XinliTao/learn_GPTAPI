@@ -1,0 +1,2 @@
+# learn_GPTAPI
+一个包含了基本chatgpt使用、langchain框架使用、streamlit使用的学习笔记项目
